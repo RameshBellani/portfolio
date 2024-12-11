@@ -22,7 +22,7 @@ export function SkillsSection() {
       >
         <h2 className="text-3xl font-bold">Skills & Expertise</h2>
         <p className="text-lg text-muted-foreground">
-          Hi, I'm Ramesh, a passionate and results-driven Full Stack Web Developer specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack. With hands-on experience and a knack for turning ideas into reality, I thrive on building intuitive and dynamic web applications. My expertise includes crafting responsive user interfaces and developing robust backend systems.
+          Hi, I&apos;m Ramesh, a passionate and results-driven Full Stack Web Developer specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack. With hands-on experience and a knack for turning ideas into reality, I thrive on building intuitive and dynamic web applications. My expertise includes crafting responsive user interfaces and developing robust backend systems.
         </p>
         <div className="grid gap-6 max-w-2xl">
           {skills.map((skill) => (

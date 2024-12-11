@@ -33,7 +33,7 @@ export function AboutSection() {
         <div className="space-y-4">
           <h2 className="text-3xl font-bold">About Me</h2>
           <p className="text-lg text-muted-foreground max-w-2xl">
-            Hi, I'm Ramesh Bellani, a passionate and results-driven Full Stack Web Developer specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack. With hands-on experience and a knack for turning ideas into reality, I thrive on building intuitive and dynamic web applications. 
+            Hi, I&apos;m Ramesh Bellani, a passionate and results-driven Full Stack Web Developer specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack. With hands-on experience and a knack for turning ideas into reality, I thrive on building intuitive and dynamic web applications. 
             My expertise includes crafting responsive user interfaces and developing robust backend systems.
           </p>
         </div>

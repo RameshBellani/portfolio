@@ -208,7 +208,7 @@ export function TestimonialsSection() {
             <div className="text-center space-y-2">
               <h3 className="text-xl font-semibold">Learning Never Stops</h3>
               <p className="text-muted-foreground">
-                As a fresher in the tech industry, I'm constantly learning and improving my skills. I believe in the power of continuous education and hands-on experience through building real-world projects.
+                As a fresher in the tech industry, I&apos;m constantly learning and improving my skills. I believe in the power of continuous education and hands-on experience through building real-world projects.
               </p>
             </div>
           </Card>

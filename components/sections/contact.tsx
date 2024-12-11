@@ -19,7 +19,7 @@ export function ContactSection() {
         <div className="space-y-4">
           <h2 className="text-3xl font-bold">Get in Touch</h2>
           <p className="text-lg text-muted-foreground max-w-2xl">
-            I'm always open to new opportunities and collaborations. Feel free to reach out!
+            I&apos;m always open to new opportunities and collaborations. Feel free to reach out!
           </p>
         </div>
 

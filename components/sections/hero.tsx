@@ -15,7 +15,7 @@ export function HeroSection() {
           transition={{ duration: 0.5 }}
         >
           <h1 className="text-4xl md:text-6xl font-bold">
-            Hi, I'm <span className="text-primary">Ramesh</span>
+            Hi, I&apos;m <span className="text-primary">Ramesh</span>
           </h1>
           <h2 className="text-2xl md:text-3xl text-muted-foreground">
             Full Stack Developer
