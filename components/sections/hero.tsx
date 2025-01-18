@@ -39,7 +39,7 @@ export function HeroSection() {
               size="lg" 
               variant="outline"
               onClick={() => {
-                window.open('/Ramesh_Bellaniupdated_CV.pdf', '_blank');
+                window.open('/Ramesh_Bellani_updated_Cv.pdf', '_blank');
               }}
             >
               Download Resume
